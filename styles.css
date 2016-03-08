@@ -12,11 +12,6 @@ body {
   background: #f7f5f0;
 }
 
-h2::before { 
-    content: "";
-    color: #52aba3;
-  
-    font-weight: bold;
 }
 /* Link Styles */
 
