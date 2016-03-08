@@ -72,11 +72,11 @@ header .profile-image {
   width: 150px;
   height: 100px;
   border-radius: 10%;
-  border: 3px solid seagreen;
+  border: 3px solid black;
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(2.2) rotate(5deg);
 }
 .tag {
   background-color: lightgray;
@@ -95,7 +95,7 @@ header .profile-image:hover {
   padding: 20px 40px 40px;
   max-width: 500px;
   text-align: left;
-  background: lightblue;
+  background: grar;
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
