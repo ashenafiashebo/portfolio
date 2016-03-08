@@ -207,3 +207,19 @@ a.social:hover {
 
 }
 
+/* ---- Layout Containers ---- */
+
+.wrapper{
+  width: 70%;
+  margin: 0 auto;
+}
+
+.main-header {
+	background: #3acec2;
+  padding: 1em 0;
+}
+
+.main-footer {
+	padding: 2em 0;
+	background: #d9e4ea;
+}
