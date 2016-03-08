@@ -27,7 +27,7 @@ a:hover {
 
 .main-nav {
   width: 100%;
-  background: #380000 ;
+  background: lightgray ;
   min-height: 30px;
   padding: 10px;
   position: fixed;
