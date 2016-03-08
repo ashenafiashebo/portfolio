@@ -14,8 +14,8 @@ body {
 
 h2::before { 
     content: "";
-    background-color: #52aba3;
-    color: red;
+    color: #52aba3;
+  
     font-weight: bold;
 }
 /* Link Styles */
