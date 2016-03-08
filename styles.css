@@ -17,10 +17,10 @@ body {
 
 a {
   text-decoration: none;
-  color: #fff;
+  color: #999;
 }
 a:hover {
-  color: #6633ff;
+  color:#fff;
 }
 
 /* Section Styles */
